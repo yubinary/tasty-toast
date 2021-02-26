@@ -4,8 +4,6 @@
 
 This is the final project I've done for **INFO 2300**, Intermediate Design and Programming for the Web. I received 148 out of 150. 
 
-**My targeted audience is the people who want to visually acquire ideas for toast topping.** They can both view the toppings included in a specific type of toast and the toasts that include a specific topping. Looking through various combinations, the users will notice which toppings/toasts are appearing most frequently; those would be the priority of their shopping. 
-
 * [Features](##features)
 * [Database Schema Design](#database-schema-design)
 * [Requests](#requests)
