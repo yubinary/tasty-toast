@@ -1,9 +1,5 @@
 # [tasty-toast](https://calm-springs-24405.herokuapp.com/index.php)
 
-<!---[![Build Status](https://travis-ci.org/travis-ci/docs-travis-ci-com.svg?branch=master)](https://travis-ci.org/yubinary/music-player-2.0)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yubinary/music-player-2.0)--->
-
-
 [Tasty toast](https://calm-springs-24405.herokuapp.com/index.php) is a data-driven web application that sorts image and enables customization of image tags using PHP and SQL.
 
 This is the final project I've done for **INFO 2300**, Intermediate Design and Programming for the Web. I received 148 out of 150. 
@@ -13,7 +9,6 @@ This is the final project I've done for **INFO 2300**, Intermediate Design and P
 * [Features](##features)
 * [Database Schema Design](#database-schema-design)
 * [Requests](#requests)
-* [Running the Project](##running-the-project)
 * [License](#license)
 
 ## Features
@@ -144,10 +139,6 @@ foreach($records as $record){
 }
 ?>
 ```
-
-## Running the Project
-1. In the project directory, run: `npm start`
-2. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## License
 
